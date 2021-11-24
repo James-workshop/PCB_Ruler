@@ -49,3 +49,37 @@ After about few Days i received my PCBs.
 As per normal JLCPCB delivered some super high quality and amazing PCBs.
 
 I hope you all enjoyed this fun little project and i hope to see some of you make your own version of this ruler. 
+
+
+
+<BR><BR><BR>
+## More details about PCB ruler
+<BR><BR><BR>
+### PCB ruler 1
+
+
+![github](https://github.com/James-workshop/PCB_Ruler/blob/main/IMG/PCB__Ruler_1.JPG "PCB_Ruler_1")
+
+
+Front：Commonly used SMD package
+
+Back： Hong Kong buzzwords
+
+PCB Thickness : 1.6mm
+
+File： PCB Ruler_1.json
+<BR><BR><BR>
+### PCB ruler 2
+
+![github](https://github.com/James-workshop/PCB_Ruler/blob/main/IMG/PCB__Ruler_2.JPG "PCB_Ruler_2")
+
+Front：AWG Wire Gauges
+
+Back： AWG reference current
+
+PCB Thickness : 1.2mm
+
+File： PCB Ruler_2.json
+
+
+
