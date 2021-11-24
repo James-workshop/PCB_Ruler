@@ -67,7 +67,7 @@ Back： Hong Kong buzzwords
 
 PCB Thickness : 1.6mm
 
-File： PCB Ruler_1.json
+File： PCB Ruler 1.json
 <BR><BR><BR>
 ### PCB ruler 2
 
@@ -79,7 +79,7 @@ Back： AWG reference current
 
 PCB Thickness : 1.2mm
 
-File： PCB Ruler_2.json
+File： PCB Ruler 2.json
 
 
 
