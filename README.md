@@ -80,6 +80,19 @@ Back： AWG reference current
 PCB Thickness : 1.2mm
 
 File： PCB Ruler 2.json
+<BR><BR><BR>
+### PCB ruler 3
+
+![github](https://github.com/James-workshop/PCB_Ruler/blob/main/IMG/PCB__Ruler_3.jpg "PCB_Ruler_3")
+
+Front：Drill bit sorting gauge
+
+PCB Thickness : 2mm
+
+File： PCB Ruler 3.json
+
+
+
 
 
 
