@@ -1,5 +1,5 @@
 # PCB_Ruler
-![github](https://github.com/James-workshop/PCB_Ruler/blob/main/Cover_Photo.JPG "PCB_Ruler")
+![github](https://github.com/James-workshop/PCB_Ruler/blob/main/IMG/IMG_3403.jpg "PCB_Ruler")
 
 
 Many DIYre have made PCB rulers. In order to have a lot of information, usually PCB rulers are very large
