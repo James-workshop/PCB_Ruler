@@ -26,7 +26,9 @@ After all, I added my logo, and the JLC PCB logo and design are complete.
 
 JLCPCB make high quality prototyping PCBs for people all over the world. They have over 300,000 worldwide customers with over 8000 orders per day! They have over 10 years of manufacturing experience and are super reliable. Try it for your self and get 10 PCBs for just $2 at JLCPCB,
 
-New registered users US$18 offer , Order here https://jlcpcb.com/HAR
+### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
+### New registered users offer , **Order here https://jlcpcb.com/HAR**
+### You can use my Gerber file to place an order at JLCPCB.com
 
 Just a quick example how to order PCB from JLCPCB.com:
 
